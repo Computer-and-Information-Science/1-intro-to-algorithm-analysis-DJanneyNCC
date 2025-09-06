@@ -3,14 +3,14 @@
 ## factorial2.cpp
 
 - input/parameter impacting number of calls: n
-- 3 specific examples of input/parameter and number of calls: n=0, called once; n=1, called twice; n=5, called six times
+- 3 specific examples of input/parameter and number of calls: n=0, 1 call; n=1, 2 calls; n=5, 6 calls
 - number of recursive calls when input/parameter is *n*: n+1
 
 ## ireverse2.cpp
 
-- input/parameter impacting number of calls: 
-- 3 specific examples of input/parameter and number of calls: 
-- number of recursive calls when input/parameter is *n*: 
+- input/parameter impacting number of calls: n
+- 3 specific examples of input/parameter and number of calls: n=3, 1 call; n=9, 1 call; n=347, 3 calls
+- number of recursive calls when input/parameter is *n*: log(n) rounded up, for n = input value
 
 ## sreverse2.cpp
 
