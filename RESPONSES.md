@@ -14,9 +14,9 @@
 
 ## sreverse2.cpp
 
-- input/parameter impacting number of calls: 
-- 3 specific examples of input/parameter and number of calls: 
-- number of recursive calls when input/parameter is *n*: 
+- input/parameter impacting number of calls: s
+- 3 specific examples of input/parameter and number of calls: s=star, 4 calls; s=among, 5 calls; s=us, 2 calls
+- number of recursive calls when input/parameter is *n*: n
 
 ## permute.cpp
 
