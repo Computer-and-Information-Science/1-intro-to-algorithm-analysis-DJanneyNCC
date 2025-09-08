@@ -22,7 +22,7 @@
 
 - input/parameter impacting number of calls: 
 - 3 specific examples of input/parameter and number of calls: 
-- number of recursive calls when input/parameter is *n*: 
+- number of recursive calls when input/parameter is *n*: n! (n factorial)
 
 ## tower.cpp
 
