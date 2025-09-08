@@ -32,6 +32,6 @@
 
 ## fibonacci2.cpp (presented in video lesson)
 
-- input/parameter impacting number of calls: 
-- 3 specific examples of input/parameter and number of calls: 
-- number of recursive calls when input/parameter is *n*: 
+- input/parameter impacting number of calls: N
+- 3 specific examples of input/parameter and number of calls: N=2, 2 calls; N=5, 11 calls; N=20, 56 calls
+- number of recursive calls when input/parameter is *n*: 3n-4 (doesn't work for the first case)
