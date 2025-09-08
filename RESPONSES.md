@@ -20,9 +20,9 @@
 
 ## permute.cpp
 
-- input/parameter impacting number of calls: 
-- 3 specific examples of input/parameter and number of calls: 
-- number of recursive calls when input/parameter is *n*: n! (n factorial)
+- input/parameter impacting number of calls: string length
+- 3 specific examples of input/parameter and number of calls: s=abc, 16 calls; s=abcd, 65 calls; s=abcde, 326 calls
+- number of recursive calls when input/parameter is *n*: 
 
 ## tower.cpp
 
