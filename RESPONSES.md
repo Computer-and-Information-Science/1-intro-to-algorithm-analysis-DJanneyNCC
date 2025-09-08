@@ -28,7 +28,7 @@
 
 - input/parameter impacting number of calls: n
 - 3 specific examples of input/parameter and number of calls: n=2, 7 calls; n=3, 15 calls; n=5, 63 calls
-- number of recursive calls when input/parameter is *n*: 2<sup>(n-1)</sup>-1
+- number of recursive calls when input/parameter is *n*: 2<sup>(n+1)</sup>-1
 
 ## fibonacci2.cpp (presented in video lesson)
 
