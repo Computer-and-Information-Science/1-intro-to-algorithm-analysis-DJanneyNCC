@@ -22,7 +22,7 @@
 
 - input/parameter impacting number of calls: string length
 - 3 specific examples of input/parameter and number of calls: s=abc, 16 calls; s=abcd, 65 calls; s=abcde, 326 calls
-- number of recursive calls when input/parameter is *n*: 
+- number of recursive calls when input/parameter is *n*: sum from 0 to stringlength of 2n!-1 (for context, I had to use a graph for this, and it's still off by a bit)
 
 ## tower.cpp
 
